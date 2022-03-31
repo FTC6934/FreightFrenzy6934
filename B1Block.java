@@ -1,3 +1,9 @@
+/**
+ * Starts on the Blue Warehouse side and theoretically scans the ducks, stacks the block, and then parks.
+ * Does not work
+ *
+ */
+
 package org.firstinspires.ftc.teamcode;
 
 import com.qualcomm.robotcore.eventloop.opmode.Autonomous;

@@ -1,3 +1,10 @@
+/**
+ * ngl don't remember what this does
+ * I think it starts on the Blue Storage Side
+ * Theoretically stacks block and parks in warehouse
+ * Does not work
+ */
+
 package org.firstinspires.ftc.teamcode;
 
 import com.qualcomm.robotcore.eventloop.opmode.Autonomous;

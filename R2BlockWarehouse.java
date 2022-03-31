@@ -1,3 +1,8 @@
+/**
+ * Starts on Red Storage side and theoretically stacks block and parks in the warehouse
+ * Does not work
+ */
+
 package org.firstinspires.ftc.teamcode;
 
 import com.qualcomm.robotcore.eventloop.opmode.Autonomous;

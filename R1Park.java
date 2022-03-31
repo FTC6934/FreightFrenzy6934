@@ -1,3 +1,9 @@
+/**
+ * Takes code from other files but skips steps
+ * Starts on Red Warehouse Side
+ * lifts arm and parks in warehouse
+ */
+
 package org.firstinspires.ftc.teamcode;
 
 import com.qualcomm.robotcore.eventloop.opmode.Autonomous;

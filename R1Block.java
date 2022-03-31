@@ -1,3 +1,8 @@
+/**
+ * Starts on Red Warehouse side and should theoretically pick up a block and park.
+ * Does not work
+ */
+
 package org.firstinspires.ftc.teamcode;
 
 import com.qualcomm.robotcore.eventloop.opmode.Autonomous;

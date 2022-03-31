@@ -1,3 +1,8 @@
+/**
+ * Starts on Storage Side and theoretically detects duck and parks in storage
+ * does not work (what a surprise)
+ */
+
 package org.firstinspires.ftc.teamcode;
 
 import com.qualcomm.robotcore.eventloop.opmode.Autonomous;

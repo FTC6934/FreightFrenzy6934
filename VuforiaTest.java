@@ -17,6 +17,9 @@ import org.firstinspires.ftc.robotcore.external.navigation.VuforiaTrackableDefau
 import org.firstinspires.ftc.robotcore.external.navigation.VuforiaTrackables;
 
 /**
+ * Attach camera and configure
+ * Basic code for demonstrating vuforia
+ *
  * This OpMode illustrates using a webcam to locate and drive towards ANY Vuforia target.
  * The code assumes a basic two-wheel Robot Configuration with motors named left_drive and right_drive.
  * The motor directions must be set so a positive drive goes forward and a positive turn rotates to the right.

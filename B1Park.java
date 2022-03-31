@@ -1,3 +1,9 @@
+/**
+ * Takes code from other files but skips states
+ * Starts on Warehouse Side for Blue
+ * Parks
+ */
+
 package org.firstinspires.ftc.teamcode;
 
 import com.qualcomm.robotcore.eventloop.opmode.Autonomous;

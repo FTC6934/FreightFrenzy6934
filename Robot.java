@@ -1,3 +1,7 @@
+/**
+ * This file initializes hardware and contains the methods used in the Autonomous programs.
+ *
+*/
 package org.firstinspires.ftc.teamcode;
 
 import com.qualcomm.robotcore.hardware.DcMotor;

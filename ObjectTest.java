@@ -42,6 +42,9 @@ import org.firstinspires.ftc.robotcore.external.tfod.TFObjectDetector;
 import java.util.List;
 
 /**
+ * Attach a camera and configure on the phone
+ * Basic code for detecting objects in Freight Frenzy
+ *
  * This 2020-2021 OpMode illustrates the basics of using the TensorFlow Object Detection API to
  * determine the position of the Freight Frenzy game elements.
  *

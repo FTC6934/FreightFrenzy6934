@@ -1,3 +1,9 @@
+/**
+ * Starts on Blue Storage Side and theoretically detects duck and parks
+ * Closest to complete compared to other autonomous
+ * Needs to be adjusted for new duck wheel position
+ */
+
 package org.firstinspires.ftc.teamcode;
 
 import com.qualcomm.robotcore.eventloop.opmode.Autonomous;
